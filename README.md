@@ -1,16 +1,6 @@
 # flutter_code_lab_01
 
-A new Flutter project.
+Primeira aplicação desenvolvida no curso Flutter Code Lab, aplicação simples que gera duas palavras aleatórias e concatena em uma só porém foram abordados princípios importantes como gerenciamento de estado, responsividade, navegação entre paginas e acessibilidade, além de explorar widgets importantes para o desenvolvimento com Flutter.
 
-## Getting Started
+![image](https://github.com/Olivaar/flutter_code_lab_01/assets/72718272/7f096a5e-566f-4471-bca2-cf20058839ff)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
